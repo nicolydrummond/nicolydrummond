@@ -1,6 +1,6 @@
 # Nicoly Drummond
 
-Olá, me chamo Nicoly Drummond, tenho 31 anos, sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://linkedin.com/in/nicolydrummond" target="_blank">UniFBV</a> e estou iniciando na área de tecnologia.
+Olá, me chamo Nicoly Drummond, tenho 31 anos, sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.wyden.com.br/unidades/unifbv" target="_blank">UniFBV</a> e estou iniciando na área de tecnologia.
 
 ## Habilidades
 
