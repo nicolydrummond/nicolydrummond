@@ -6,7 +6,7 @@ Desenvolvedora em formação, focada em Python e apaixonada por tecnologia.
 
 ## 🎓 Formação 
 
-- Análise e Desenvolvimento de Sistemas com foco atual em *Python*.
+- Análise e Desenvolvimento de Sistemas com foco atual em Python.
 - Conhecimentos em Desenvolvimento Web, usando HTML5, CSS3 e JavaScript.
 - SQL para análise de dados e manipulação de bancos de dados.
 
