@@ -1,14 +1,14 @@
-# Olá! 👩🏻‍💻 Eu sou Nicoly Drummond
+# Olá! Eu sou Nicoly Drummond
 
-🌱 ## Sobre mim 
+## 👩🏻‍💻 Sobre mim
 
-Desenvolvedora em formação, focada em *Python* e apaixonada por tecnologia. 
+Desenvolvedora em formação, focada em Python e apaixonada por tecnologia. 
 
-🎓## Formação 
+## 🎓 Formação 
 
-- *Análise e Desenvolvimento de Sistemas* com foco atual em *Python*.
-- Conhecimentos em *Desenvolvimento Web, usando **HTML5, **CSS3* e *JavaScript*.
-- *SQL* para análise de dados e manipulação de bancos de dados.
+- Análise e Desenvolvimento de Sistemas com foco atual em *Python*.
+- Conhecimentos em Desenvolvimento Web, usando HTML5, CSS3 e JavaScript.
+- SQL para análise de dados e manipulação de bancos de dados.
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
@@ -18,6 +18,4 @@ Desenvolvedora em formação, focada em *Python* e apaixonada por tecnologia.
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 
-## Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F0F0F0?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://linkedin.com/in/nicolydrummond)
+### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-F0F0F0?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://linkedin.com/in/nicolydrummond)
