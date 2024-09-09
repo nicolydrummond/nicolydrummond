@@ -1,10 +1,10 @@
 # Olá! Eu sou Nicoly Drummond
 
-## 👩🏻‍💻 Sobre mim
+### 👩🏻‍💻 Sobre mim
 
 Desenvolvedora em formação, focada em Python e apaixonada por tecnologia. 
 
-## 🎓 Formação 
+### 🎓 Formação 
 
 - Análise e Desenvolvimento de Sistemas com foco atual em Python.
 - Conhecimentos em Desenvolvimento Web, usando HTML5, CSS3 e JavaScript.
