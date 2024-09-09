@@ -1,8 +1,16 @@
-# Nicoly Drummond
+# Olá! 👩🏻‍💻 Eu sou Nicoly Drummond
 
-Olá, me chamo Nicoly Drummond, tenho 31 anos, sou estudante de Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://www.wyden.com.br/unidades/unifbv">UniFBV</a> e estou iniciando na área de tecnologia.
+🌱 *Sobre mim*  
 
-## Habilidades
+Desenvolvedora em formação, focada em *Python* e apaixonada por tecnologia. 
+Atualmente, estou cursando *Análise e Desenvolvimento de Sistemas*.
+
+🎓 *Formação*  
+
+- *Análise e Desenvolvimento de Sistemas* com foco atual em *Python*.
+- Conhecimentos em *Desenvolvimento Web, usando **HTML5, **CSS3* e *JavaScript*.
+- *SQL* para análise de dados e manipulação de bancos de dados.
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
