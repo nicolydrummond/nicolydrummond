@@ -2,11 +2,12 @@
 
 ### 👩🏻‍💻 Sobre mim
 
-Desenvolvedora em formação, focada em Python e apaixonada por tecnologia. 
+QA, desenvolvedora em formação e apaixonada por tecnologia. 
 
 ### 🎓 Formação 
 
-- Análise e Desenvolvimento de Sistemas com foco atual em Python.
+- Análise e Desenvolvimento de Sistemas.
+- Atualmente atuando como QA, com experiência em testes manuais e automatizados, utilizando Postman, Cypress e Tosca.
 - Conhecimentos em Desenvolvimento Web, usando HTML5, CSS3 e JavaScript.
 - SQL para análise de dados e manipulação de bancos de dados.
 
